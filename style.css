@@ -1,13 +1,31 @@
-hl {
-  color:red;
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header{
+    flex: 15%;
+    background-color: lightgray;
+}
+.menu{
+    flex: 5%;
+    background-color: darkgray;
 }
 
-.f1 {
-  color: blue;
-  font-size: 20pt;
-}
 
-.f2 {
-  color: lime;
-  font-size: 15pt;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
